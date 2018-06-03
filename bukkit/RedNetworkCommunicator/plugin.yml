@@ -1,0 +1,6 @@
+name: RedNetworkCommunicator
+main: org.golde.java.rednetwork.communication.server.Main
+version: 1.0
+author: Eric Golde
+description: Communication API for the RedClient
+website: http://eric.golde.org/

@@ -1,0 +1,7 @@
+name: RedNetworkCommunicatorExample
+main: org.golde.bukkit.redexample.Main
+version: 1.0
+author: Eric Golde
+description: Example
+website: http://eric.golde.org/
+depend: [RedNetworkCommunicator]
